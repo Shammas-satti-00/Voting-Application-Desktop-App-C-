@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\admin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\admin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|c:\\users\\ahmad\\documents\\bscs-7b\\visualprogramming\\voting application\\voting application\\election_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\election_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\election_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\election_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\registration_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\registration_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\registration_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\registration_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\admin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\admin_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\election_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\election_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\dal\\user_registration_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\dal\\user_registration_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\admin_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\admin_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\bll\\user_registration_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\bll\\user_registration_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Voting application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:Voting application\\Voting application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\election_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\election_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\registration_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\registration_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\login_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\login_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\admin_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\admin_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\voting application\\registration_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{93B4358C-F502-4ABF-8360-80C19F661722}|Voting application\\Voting application.csproj|solutionrelative:voting application\\registration_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User_Registration_BLL.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\BLL\\User_Registration_BLL.cs",
+              "RelativeDocumentMoniker": "Voting application\\BLL\\User_Registration_BLL.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\BLL\\User_Registration_BLL.cs",
+              "RelativeToolTip": "Voting application\\BLL\\User_Registration_BLL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:19.036Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Election_form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.Designer.cs",
+              "RelativeDocumentMoniker": "Voting application\\Election_form.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.Designer.cs",
+              "RelativeToolTip": "Voting application\\Election_form.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA1wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Election_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Election_form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.cs [Design]",
+              "RelativeToolTip": "Voting application\\Election_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:21.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Admin_form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.cs [Design]",
+              "RelativeToolTip": "Voting application\\Admin_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:47:37.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Registration_Form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.cs [Design]",
+              "RelativeToolTip": "Voting application\\Registration_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:21.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.cs [Design]",
+              "RelativeToolTip": "Voting application\\Login_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:47:20.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registration_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Registration_Form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.cs",
+              "RelativeToolTip": "Voting application\\Registration_Form.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T16:07:41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin_form.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Admin_form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.cs",
+              "RelativeToolTip": "Voting application\\Admin_form.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAEwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:49:07.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Election_form.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Election_form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.cs",
+              "RelativeToolTip": "Voting application\\Election_form.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwD4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:37:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.cs",
+              "RelativeDocumentMoniker": "Voting application\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.cs",
+              "RelativeToolTip": "Voting application\\Login_Form.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAqwGkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:30:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User_Registration_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\DAL\\User_Registration_DAL.cs",
+              "RelativeDocumentMoniker": "Voting application\\DAL\\User_Registration_DAL.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\DAL\\User_Registration_DAL.cs",
+              "RelativeToolTip": "Voting application\\DAL\\User_Registration_DAL.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAqwPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Program.cs",
+              "RelativeDocumentMoniker": "Voting application\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Program.cs",
+              "RelativeToolTip": "Voting application\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:52:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.Designer.cs",
+              "RelativeDocumentMoniker": "Voting application\\Admin_form.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.Designer.cs",
+              "RelativeToolTip": "Voting application\\Admin_form.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:38:44.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Voting application\\Login_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.Designer.cs",
+              "RelativeToolTip": "Voting application\\Login_Form.Designer.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAcwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:21.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\App.config",
+              "RelativeDocumentMoniker": "Voting application\\App.config",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\App.config",
+              "RelativeToolTip": "Voting application\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-12T07:10:18.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Voting application.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Voting application.csproj",
+              "RelativeDocumentMoniker": "Voting application\\Voting application.csproj",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Voting application.csproj",
+              "RelativeToolTip": "Voting application\\Voting application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T14:10:50.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Election_form.resx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.resx",
+              "RelativeDocumentMoniker": "Voting application\\Election_form.resx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Election_form.resx",
+              "RelativeToolTip": "Voting application\\Election_form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-11T14:45:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registration_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Voting application\\Registration_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.Designer.cs",
+              "RelativeToolTip": "Voting application\\Registration_Form.Designer.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAwMcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:45:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login_Form.resx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.resx",
+              "RelativeDocumentMoniker": "Voting application\\Login_Form.resx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Login_Form.resx",
+              "RelativeToolTip": "Voting application\\Login_Form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-11T14:45:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin_form.resx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.resx",
+              "RelativeDocumentMoniker": "Voting application\\Admin_form.resx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Admin_form.resx",
+              "RelativeToolTip": "Voting application\\Admin_form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-11T14:45:21.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Registration_Form.resx",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.resx",
+              "RelativeDocumentMoniker": "Voting application\\Registration_Form.resx",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\BSCS-7B\\VisualProgramming\\Voting application\\Voting application\\Registration_Form.resx",
+              "RelativeToolTip": "Voting application\\Registration_Form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-01-11T14:45:21.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
